@@ -1,4 +1,4 @@
 ﻿
-Console.WriteLine("abc");
+Console.WriteLine("değişiklik");
 
 
