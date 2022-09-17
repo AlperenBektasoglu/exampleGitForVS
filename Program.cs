@@ -1,4 +1,4 @@
 ﻿
-Console.WriteLine("armut,elma");
+Console.WriteLine("ayı");
 
 
