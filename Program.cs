@@ -1,5 +1,4 @@
 ﻿
-Console.WriteLine("kedi");
-Console.WriteLine("ayı");
+Console.WriteLine("ayten");
 
 
