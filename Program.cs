@@ -1,5 +1,4 @@
 ﻿
-Console.WriteLine("bahar");
-Console.WriteLine("ayten");
+Console.WriteLine("10");
 
 
