@@ -8,6 +8,6 @@ namespace exampleGitForVS
 {
     internal class deneme
     {
-        int x = 1;
+        int x = 10;
     }
 }
