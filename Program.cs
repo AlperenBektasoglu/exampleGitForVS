@@ -1,4 +1,4 @@
 ﻿
-Console.WriteLine("work");
+Console.WriteLine("deneme");
 
 
