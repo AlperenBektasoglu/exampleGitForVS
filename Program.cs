@@ -1,4 +1,4 @@
 ﻿
-Console.WriteLine("deneme");
+Console.WriteLine("abc");
 
 
