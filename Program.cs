@@ -1,3 +1,4 @@
 ﻿
-Console.WriteLine("elma");
+Console.WriteLine("armut,elma");
+
 
